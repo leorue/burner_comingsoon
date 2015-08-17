@@ -524,3 +524,30 @@ a
 	
 }
 
+h5 {
+	font-size: 25px !important;
+	letter-spacing: 0.05em !important;
+
+}
+
+p {
+	font-size: 16px;
+}
+
+.well.feature-well:hover {
+	background-color: rgba(240,80,20, 0.8);
+	border-color: transparent;
+}
+
+i.fa.fa-3x.icon-feature {
+	padding-bottom: 15px; 
+	padding-top: 15px;
+/*	padding-left: 105px;*/
+	width: 50%;
+}
+
+.well.feature-well {
+	background-color: transparent; 
+	height: 400px;
+}
+
