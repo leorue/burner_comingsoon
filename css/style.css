@@ -655,7 +655,24 @@ i.fa.fa-3x.icon-feature {
 
 .well.feature-well {
 	background-color: transparent; 
-	min-height: 415px;
+	min-height: 425px;
 	height: 100%;
+}
+@media (max-width: 568px) {
+
+	.well.feature-well {
+		background-color: transparent; 
+		min-height: 300px;
+		height: 100%;
+	}
+
+}
+
+@media screen and (max-width: 667px) {
+		.well.feature-well {
+		background-color: transparent; 
+		min-height: 300px;
+		height: 100%;
+	}
 }
 
