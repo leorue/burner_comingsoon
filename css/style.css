@@ -535,6 +535,28 @@ a
 
 }
 
+@media screen and (max-width: 568px) {
+
+	.section .content .overlaycontent h1 {
+			
+			width: 100%;
+			font-size: 41px;
+
+	}
+
+}
+
+@media screen and (max-width: 667px) {
+
+	.section .content .overlaycontent h1 {
+			
+			width: 100%;
+			font-size: 41px;
+
+	}
+
+}
+
 
 h5 {
 	font-size: 25px !important;
