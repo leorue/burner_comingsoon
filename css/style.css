@@ -437,7 +437,7 @@ a
 
 /** Responsive Magic **/
 
-@media screen and (max-width: 768px)
+@media screen and (max-width: 768px) 
 {
 
 	.section.bg1
@@ -492,7 +492,7 @@ a
 	
 }
 
-@media screen and (max-width: 480px)
+@media screen and (max-width: 480px) 
 {
 
 	.section .content .fullwidth .main form#getdirections .directionleft,
@@ -524,6 +524,18 @@ a
 	
 }
 
+@media screen and (max-width: 480px) {
+
+	.section .content .overlaycontent h1 {
+			
+			width: 100%;
+			font-size: 41px;
+
+	}
+
+}
+
+
 h5 {
 	font-size: 25px !important;
 	letter-spacing: 0.05em !important;
@@ -548,6 +560,7 @@ i.fa.fa-3x.icon-feature {
 
 .well.feature-well {
 	background-color: transparent; 
-	height: 400px;
+	min-height: 415px;
+	height: 100%;
 }
 
