@@ -524,24 +524,87 @@ a
 	
 }
 
+@media screen and (max-width: 320px) {
+
+	.section .content .overlaycontent h1 {
+			
+			width: 100%;
+			font-size: 35px !important;
+
+	}
+
+	.section .content .overlaycontent h1 a {
+			width: 100%;
+			font-size: 35px !important;
+	}
+
+	.section .content .overlaycontent h2 {
+			width: 100%;
+			font-size: 30px !important;
+	}
+
+}
+
 @media screen and (max-width: 480px) {
 
 	.section .content .overlaycontent h1 {
 			
 			width: 100%;
-			font-size: 41px;
+			font-size: 35px !important;
 
 	}
 
+	.section .content .overlaycontent h1 a {
+			width: 100%;
+			font-size: 35px !important;
+	}
+
+	.section .content .overlaycontent h2 {
+			width: 100%;
+			font-size: 30px !important;
+	}
+
 }
+
 
 @media screen and (max-width: 568px) {
 
 	.section .content .overlaycontent h1 {
 			
 			width: 100%;
-			font-size: 41px;
+			font-size: 35px !important;
 
+	}
+
+	.section .content .overlaycontent h1 a {
+			width: 100%;
+			font-size: 35px !important;
+	}
+
+	.section .content .overlaycontent h2 {
+			width: 100%;
+			font-size: 30px !important;
+	}
+
+}
+
+@media (max-width: 568px) {
+
+	.section .content .overlaycontent h1 {
+			
+			width: 100%;
+			font-size: 35px !important;
+
+	}
+
+	.section .content .overlaycontent h1 a {
+			width: 100%;
+			font-size: 35px !important;
+	}
+
+	.section .content .overlaycontent h2 {
+			width: 100%;
+			font-size: 30px !important;
 	}
 
 }
@@ -551,8 +614,18 @@ a
 	.section .content .overlaycontent h1 {
 			
 			width: 100%;
-			font-size: 41px;
+			font-size: 35px !important;
 
+	}
+
+	.section .content .overlaycontent h1 a {
+			width: 100%;
+			font-size: 35px !important;
+	}
+
+	.section .content .overlaycontent h2 {
+			width: 100%;
+			font-size: 30px !important;
 	}
 
 }
