@@ -50,7 +50,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
 	$("#countdown").countdown({
-		date: "4 december 2015 12:00:00", /** Enter new date here **/
+		date: "6 april 2016 00:00:00", /** Enter new date here **/
 		format: "on"
 	},
 	function() {
